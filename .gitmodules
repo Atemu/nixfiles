@@ -4,3 +4,6 @@
 [submodule "nixos-config"]
 	path = nixos-config
 	url = https://github.com/Atemu/nixos-config
+[submodule "nixpkgs-23.11"]
+	path = nixpkgs-23.11
+	url = https://github.com/Atemu/nixpkgs
