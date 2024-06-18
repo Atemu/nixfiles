@@ -7,3 +7,6 @@
 [submodule "nixpkgs-23.11"]
 	path = nixpkgs-23.11
 	url = https://github.com/Atemu/nixpkgs
+[submodule "nixpkgs-24.05"]
+	path = nixpkgs-24.05
+	url = https://github.com/Atemu/nixpkgs
